@@ -107,7 +107,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Contributions to this script are welcome! If you find any issues or have ideas for improvements, feel free to create an issue or submit a pull request on the GitHub repository.
 Do not hesitate, **Participate**, there are many ways :
 - Join my Patreon community and be a part of supporting the development of my various projects!  [![Participate to my Patreon][Patreon-shield]][patreon]
-  ([patreon.com/schmurtz](https://www.patreon.com/schmurtz))
   
 - Or you can buy me a coffee to keep me awake during night coding sessions :dizzy_face: !
    <a href="https://www.buymeacoffee.com/schmurtz"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy me a coffee" width="100"/></a>
