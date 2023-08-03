@@ -2,7 +2,7 @@
 
 These scripts are mainly dedicated to Onion OS image scraper so only data related to images are exported.
 
-`01-convert-to-SQLite.py` script allows you to convert Launchbox database from its original JSON format to a SQLite database. This conversion makes it faster and easier to query the data using SQLite.
+`01-convert-to-SQLite.py` script allows you to convert Launchbox database from its original XML format to a SQLite database. This conversion makes it faster and easier to query the data using SQLite.
 
 `02-split-database-by-platform.py` splits the resulting database from the first script into separate databases based on distinct platforms for using it on low memory devices like the Miyoo Mini.
 
